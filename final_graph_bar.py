@@ -25,3 +25,6 @@ def coordinate():
             plt.show()
             print(my_y_row, type(my_y_row))
             pass
+
+coordinate()
+
